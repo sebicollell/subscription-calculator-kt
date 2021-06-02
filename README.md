@@ -1,8 +1,8 @@
 # Problem Summary
-The accounts department is worried that we are paying users with incorrect benefits.
+The Marketing department is worried that we are paying users with incorrect benefits/credit.
 
 ## Business Rules
-At Cooltra, there are XXX subscriptions that give you extra benefits depending on how much you use 
+At Cooltra, there are XXX subscriptions that give you extra benefits/credit depending on how much you use 
 
 * The user states how much wants to pay for the Subscription.
 * The subscription payment can be bi-weekly or monthly
